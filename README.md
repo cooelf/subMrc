@@ -1,12 +1,16 @@
 Original implementation of the paper **Subword-augmented Embedding for Cloze Reading Comprehension**
 
 ## Environment
+
 MRC Model:
-Python 2.7
-Theano 0.9.0dev
-Lasagne 0.2.dev1
+
+- Python 2.7
+- Theano 0.9.0dev
+- Lasagne 0.2.dev1
+
 BPE Segmentation:
-Python 2.7 and python 3.6 would be fine :)
+
+- Python 2.7 and python 3.6 would be fine :)
 
 ### Instruction 
 BPE segmentation can be referred to https://github.com/rsennrich/subword-nmt
