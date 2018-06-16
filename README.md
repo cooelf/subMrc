@@ -19,3 +19,15 @@ There are two ways of using subwords which could be adopted to various NLP tasks
 2) segment the words one by one in data processing (word2sub.py)
 
 This implementation employs the first way. After obtaining the subword mapping file, we need to specify "subdic" directory in config.py.
+
+If you use this sourse please cite our paper:
+
+```
+@inproceedings{zhang2018mrc,
+    title = {Subword-augmented Embedding for Cloze Reading Comprehension},
+    author = {Zhang, Zhuosheng and Yafang, Huang and Zhao, Hai},
+    booktitle = {Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)},
+    year = {2018}
+}
+
+```
