@@ -29,7 +29,7 @@ If you use this sourse please cite our paper:
 ```
 @inproceedings{zhang2018mrc,
     title = {Subword-augmented Embedding for Cloze Reading Comprehension},
-    author = {Zhang, Zhuosheng and Yafang, Huang and Zhao, Hai},
+    author = {Zhang, Zhuosheng and Huang, Yafang and Zhao, Hai},
     booktitle = {Proceedings of the 27th International Conference on Computational Linguistics (COLING 2018)},
     year = {2018}
 }
