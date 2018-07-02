@@ -1,4 +1,4 @@
-Original implementation of the paper **Subword-augmented Embedding for Cloze Reading Comprehension**
+Original implementation of the paper **[Subword-augmented Embedding for Cloze Reading Comprehension.](https://arxiv.org/abs/1806.09103)**
 
 ## Environment
 
