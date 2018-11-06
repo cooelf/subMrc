@@ -38,4 +38,4 @@ If you use this sourse please cite our paper:
 
 ### Update
 
-Various subword segmentation methods (BPE-AV, BPE-DLG, BPE-FRQ) are released here https://github.com/cooelf/subMrc 
+Various subword segmentation methods (BPE-AV, BPE-DLG, BPE-FRQ) are released here https://github.com/cooelf/subword_seg
